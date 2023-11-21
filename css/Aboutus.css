@@ -1,0 +1,25 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid;
+    border-color: blueviolet;
+    border-radius: 20px;
+    background-color: rgb(181, 162, 198);
+}
+body{
+    background-color: rgb(180, 213, 213);
+    text-align: center;
+}
+b{
+    border: 2px solid;
+    border-color: crimson;
+    background-color: rgb(203, 132, 146);
+    border-radius: 20px;
+}
+strong{
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 10px;
+    border-color: blueviolet;
+    background-color: rgb(155, 89, 216);
+}

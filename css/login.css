@@ -1,0 +1,19 @@
+h1{
+    border: 5px solid;
+    border-width: 4pxpx;
+    width:30%;
+    background-color: rgb(119, 186, 188);
+    border-color: rgb(8, 82, 57);
+    border-radius: 20px;
+}
+label{
+    color:rgb(6, 6, 67)
+}
+input{
+    border-radius:20px ;
+    border-color: rgb(33, 73, 60);
+    background-color: rgb(192, 229, 217);
+}
+body{
+    background-color: rgb(198, 217, 211);
+}
